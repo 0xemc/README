@@ -1,0 +1,14 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "toc": "markdown-toc-generator --file=README.MD"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-toc-generator": "^1.0.9"
+  }
+}
